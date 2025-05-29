@@ -1,4 +1,4 @@
-# YOLOv8 Streamlit Detection & Tracking
+# RealTime-Object-Detection-Tracker
 
 This project is a real-time object detection and tracking application built using the YOLOv8 model and Streamlit. It allows users to detect and track multiple objects in video streams with a user-friendly web interface.
 
